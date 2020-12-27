@@ -6,9 +6,9 @@
 
 4. [American Express Company](https://www.dropbox.com/t/wePvNm0lCFSBD90Y)
 
-5. [Boeing Company](https://www.dropbox.com/t/3YcHyNxKMh8bWboX)
+5. [Boeing Company](https://www.dropbox.com/t/3YcHyNxKMh8bWboX)
 
-6. [Bank of America Corporation](https://www.dropbox.com/t/CcAUNoIuQnblJaTB)
+6. [Bank of America](https://www.dropbox.com/t/CcAUNoIuQnblJaTB)
 
 7. [Citigroup Inc](https://www.dropbox.com/t/oVN0BdeFijBVklY5)
 
