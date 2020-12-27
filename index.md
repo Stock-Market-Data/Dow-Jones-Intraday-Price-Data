@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+1. [Alcoa Corporation](https://www.dropbox.com/t/x45aWW1OgVz1Mh2S)
 
-You can use the [editor on GitHub](https://github.com/Stock-Market-Data/Dow-Jones-Intraday-Price-Data/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+2. [Apple Inc](https://www.dropbox.com/t/fhqMvrefsR30WM9v)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+3. [American International Group Inc](https://www.dropbox.com/t/N11LvdrE4OX8IUel)
 
-### Markdown
+4. [American Express Company](https://www.dropbox.com/t/wePvNm0lCFSBD90Y)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+5. [Boeing Company](https://www.dropbox.com/t/3YcHyNxKMh8bWboX)
 
-```markdown
-Syntax highlighted code block
+6. [Bank of America Corporation](https://www.dropbox.com/t/CcAUNoIuQnblJaTB)
 
-# Header 1
-## Header 2
-### Header 3
+7. [Citigroup Inc](https://www.dropbox.com/t/oVN0BdeFijBVklY5)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Stock-Market-Data/Dow-Jones-Intraday-Price-Data/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
