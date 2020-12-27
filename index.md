@@ -64,22 +64,18 @@
 
 33. [Procter & Gamble Company](https://www.dropbox.com/t/DdltYle9QZ35J6ce)
 
-34. [Pimco Global Stocksplus & Income Fund]()
+36. [AT&T Inc](https://www.dropbox.com/t/LtvyG0dEr9vh9BWr)
 
-35. [Raytheon Technologies Corporation]()
+37. [The Travelers Companies Inc](https://www.dropbox.com/t/2DVS92P9VE01sJFr)
 
-36. [AT&T Inc]()
+38. [UnitedHealth Group Incorporated](https://www.dropbox.com/t/BkqxK7Oc6jgqszGJ)
 
-37. [The Travelers Companies Inc]()
+39. [Visa Inc](https://www.dropbox.com/t/eCrqQLbE4KPe3mWS)
 
-38. [UnitedHealth Group Incorporated]()
+40. [Verizon Communications Inc](https://www.dropbox.com/t/7wX2Y1CSoVMopCZt)
 
-39. [Visa Inc]()
+41. [Walgreens Boots Alliance Inc](https://www.dropbox.com/t/hmyRMBVpBrqskRdQ)
 
-40. [Verizon Communications Inc]()
+42. [Walmart Inc](https://www.dropbox.com/t/eUfv5tfFCBBabOOJ)
 
-41. [Walgreens Boots Alliance Inc]()
-
-42. [Walmart Inc]()
-
-43. [Exxon Mobil Corporation]()
+43. [Exxon Mobil Corporation](https://www.dropbox.com/t/L0Vze0enN6vdDgFD)
