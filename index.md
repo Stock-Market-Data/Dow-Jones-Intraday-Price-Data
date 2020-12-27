@@ -12,4 +12,7 @@
 
 7. [Citigroup Inc](https://www.dropbox.com/t/oVN0BdeFijBVklY5)
 
+8. [Caterpillar Inc](https://www.dropbox.com/t/y8YTGTs41IolTIxN)
+
+9. [Cisco Systems Inc](https://www.dropbox.com/t/V1sdn5SzbHlSQaCW)
 
