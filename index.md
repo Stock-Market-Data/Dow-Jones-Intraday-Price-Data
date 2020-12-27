@@ -1,81 +1,79 @@
-1. [Alcoa Corporation](https://www.dropbox.com/t/x45aWW1OgVz1Mh2S)
+* [Alcoa Corporation](https://www.dropbox.com/t/x45aWW1OgVz1Mh2S)
 
-2. [Apple Inc](https://www.dropbox.com/t/fhqMvrefsR30WM9v)
+* [Apple Inc](https://www.dropbox.com/t/fhqMvrefsR30WM9v)
 
-3. [American International Group Inc](https://www.dropbox.com/t/N11LvdrE4OX8IUel)
+* [American International Group Inc](https://www.dropbox.com/t/N11LvdrE4OX8IUel)
 
-4. [American Express Company](https://www.dropbox.com/t/wePvNm0lCFSBD90Y)
+* [American Express Company](https://www.dropbox.com/t/wePvNm0lCFSBD90Y)
 
-5. [Boeing Company](https://www.dropbox.com/t/3YcHyNxKMh8bWboX)
+* [Boeing Company](https://www.dropbox.com/t/3YcHyNxKMh8bWboX)
 
-6. [Bank of America](https://www.dropbox.com/t/CcAUNoIuQnblJaTB)
+* [Bank of America](https://www.dropbox.com/t/CcAUNoIuQnblJaTB)
 
-7. [Citigroup Inc](https://www.dropbox.com/t/oVN0BdeFijBVklY5)
+* [Citigroup Inc](https://www.dropbox.com/t/oVN0BdeFijBVklY5)
 
-8. [Caterpillar Inc](https://www.dropbox.com/t/y8YTGTs41IolTIxN)
+* [Caterpillar Inc](https://www.dropbox.com/t/y8YTGTs41IolTIxN)
 
-9. [Cisco Systems Inc](https://www.dropbox.com/t/V1sdn5SzbHlSQaCW)
+* [Cisco Systems Inc](https://www.dropbox.com/t/V1sdn5SzbHlSQaCW)
 
-10. [Chevron Corporation](https://www.dropbox.com/t/DyY2qxbWSklmeEmn)
+* [Chevron Corporation](https://www.dropbox.com/t/DyY2qxbWSklmeEmn)
 
-11. [DuPont de Nemours Inc](https://www.dropbox.com/t/Cx88K3h6Q50lii0s)
+* [DuPont de Nemours Inc](https://www.dropbox.com/t/Cx88K3h6Q50lii0s)
 
-12. [Walt Disney Company](https://www.dropbox.com/t/EP0VtMZO3Cj2t85i)
+* [Walt Disney Company](https://www.dropbox.com/t/EP0VtMZO3Cj2t85i)
 
-13. [Dow Inc](https://www.dropbox.com/t/EP0VtMZO3Cj2t85i)
+* [Dow Inc](https://www.dropbox.com/t/EP0VtMZO3Cj2t85i)
 
-14. [General Electric Company](https://www.dropbox.com/t/f2fuyCGcFf5EfmEB)
+* [General Electric Company](https://www.dropbox.com/t/f2fuyCGcFf5EfmEB)
 
-15. [General Motors Company](https://www.dropbox.com/t/8ImCQXRcJGlNvek9)
+* [General Motors Company](https://www.dropbox.com/t/8ImCQXRcJGlNvek9)
 
-16. [Goldman Sachs Group Inc](https://www.dropbox.com/t/08WLrBlP99DewJcN)
+* [Goldman Sachs Group Inc](https://www.dropbox.com/t/08WLrBlP99DewJcN)
 
-17. [Home Depot Inc](https://www.dropbox.com/t/vpIkoTNCk7V9BNWS)
+* [Home Depot Inc](https://www.dropbox.com/t/vpIkoTNCk7V9BNWS)
 
-18. [Honeywell International Inc](https://www.dropbox.com/t/QqxtIKhAqg24Ez5j)
+* [Honeywell International Inc](https://www.dropbox.com/t/QqxtIKhAqg24Ez5j)
 
-19. [HP Inc]()
+* [International Business Machines Corporation](https://www.dropbox.com/t/0nHoTSaCvFivo2lt)
 
-20. [International Business Machines Corporation](https://www.dropbox.com/t/0nHoTSaCvFivo2lt)
+* [Intel Corporation](https://www.dropbox.com/t/VLlTeoaNVYLX8lvY)
 
-21. [Intel Corporation](https://www.dropbox.com/t/VLlTeoaNVYLX8lvY)
+* [Johnson & Johnson](https://www.dropbox.com/t/hhnrRzCBykgw8Rhk)
 
-22. [Johnson & Johnson](https://www.dropbox.com/t/hhnrRzCBykgw8Rhk)
+* [J P Morgan Chase & Co](https://www.dropbox.com/t/Z04FNjrhBmOUPiLW)
 
-23. [J P Morgan Chase & Co](https://www.dropbox.com/t/Z04FNjrhBmOUPiLW)
+* [Coca-Cola Company](https://www.dropbox.com/t/gOvPJo4tbHzVK03A)
 
-24. [Coca-Cola Company](https://www.dropbox.com/t/gOvPJo4tbHzVK03A)
+* [McDonald's Corporation](https://www.dropbox.com/t/Y5tPgd0bXpEdekx3)
 
-25. [McDonald's Corporation](https://www.dropbox.com/t/Y5tPgd0bXpEdekx3)
+* [Mondelez International Inc](https://www.dropbox.com/t/AdckRvqtGf3wiQ11)
 
-26. [Mondelez International Inc](https://www.dropbox.com/t/AdckRvqtGf3wiQ11)
+* [3M Company](https://www.dropbox.com/t/P0BlkkXt8RUWm0iH)
 
-27. [3M Company](https://www.dropbox.com/t/P0BlkkXt8RUWm0iH)
+* [Altria Group](https://www.dropbox.com/t/VUf5P9D5gBxuGFlr)
 
-28. [Altria Group](https://www.dropbox.com/t/VUf5P9D5gBxuGFlr)
+* [Merck & Company Inc](https://www.dropbox.com/t/QKQFw0mHUGM3kZWg)
 
-29. [Merck & Company Inc](https://www.dropbox.com/t/QKQFw0mHUGM3kZWg)
+* [Microsoft Corporation](https://www.dropbox.com/t/ptITuQZ0AdAb3rV4)
 
-30. [Microsoft Corporation](https://www.dropbox.com/t/ptITuQZ0AdAb3rV4)
+* [Nike Inc](https://www.dropbox.com/t/TQm1OQJ3PsO4km0x)
 
-31. [Nike Inc](https://www.dropbox.com/t/TQm1OQJ3PsO4km0x)
+* [Pfizer Inc](https://www.dropbox.com/t/jAw7AeCd0o1ZdWQr)
 
-32. [Pfizer Inc](https://www.dropbox.com/t/jAw7AeCd0o1ZdWQr)
+* [Procter & Gamble Company](https://www.dropbox.com/t/DdltYle9QZ35J6ce)
 
-33. [Procter & Gamble Company](https://www.dropbox.com/t/DdltYle9QZ35J6ce)
+* [AT&T Inc](https://www.dropbox.com/t/LtvyG0dEr9vh9BWr)
 
-36. [AT&T Inc](https://www.dropbox.com/t/LtvyG0dEr9vh9BWr)
+* [The Travelers Companies Inc](https://www.dropbox.com/t/2DVS92P9VE01sJFr)
 
-37. [The Travelers Companies Inc](https://www.dropbox.com/t/2DVS92P9VE01sJFr)
+* [UnitedHealth Group Incorporated](https://www.dropbox.com/t/BkqxK7Oc6jgqszGJ)
 
-38. [UnitedHealth Group Incorporated](https://www.dropbox.com/t/BkqxK7Oc6jgqszGJ)
+* [Visa Inc](https://www.dropbox.com/t/eCrqQLbE4KPe3mWS)
 
-39. [Visa Inc](https://www.dropbox.com/t/eCrqQLbE4KPe3mWS)
+* [Verizon Communications Inc](https://www.dropbox.com/t/7wX2Y1CSoVMopCZt)
 
-40. [Verizon Communications Inc](https://www.dropbox.com/t/7wX2Y1CSoVMopCZt)
+* [Walgreens Boots Alliance Inc](https://www.dropbox.com/t/hmyRMBVpBrqskRdQ)
 
-41. [Walgreens Boots Alliance Inc](https://www.dropbox.com/t/hmyRMBVpBrqskRdQ)
+* [Walmart Inc](https://www.dropbox.com/t/eUfv5tfFCBBabOOJ)
 
-42. [Walmart Inc](https://www.dropbox.com/t/eUfv5tfFCBBabOOJ)
-
-43. [Exxon Mobil Corporation](https://www.dropbox.com/t/L0Vze0enN6vdDgFD)
+* [Exxon Mobil Corporation](https://www.dropbox.com/t/L0Vze0enN6vdDgFD)
