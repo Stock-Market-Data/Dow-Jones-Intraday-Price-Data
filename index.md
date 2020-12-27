@@ -18,51 +18,51 @@
 
 10. [Chevron Corporation](https://www.dropbox.com/t/DyY2qxbWSklmeEmn)
 
-11. [DuPont de Nemours Inc]()
+11. [DuPont de Nemours Inc](https://www.dropbox.com/t/Cx88K3h6Q50lii0s)
 
-12. [Walt Disney Company]()
+12. [Walt Disney Company](https://www.dropbox.com/t/EP0VtMZO3Cj2t85i)
 
-13. [Dow Inc]()
+13. [Dow Inc](https://www.dropbox.com/t/EP0VtMZO3Cj2t85i)
 
-14. [General Electric Company]()
+14. [General Electric Company](https://www.dropbox.com/t/f2fuyCGcFf5EfmEB)
 
-15. [General Motors Company]()
+15. [General Motors Company](https://www.dropbox.com/t/8ImCQXRcJGlNvek9)
 
-16. [Goldman Sachs Group Inc]()
+16. [Goldman Sachs Group Inc](https://www.dropbox.com/t/08WLrBlP99DewJcN)
 
-17. [Home Depot Inc]()
+17. [Home Depot Inc](https://www.dropbox.com/t/vpIkoTNCk7V9BNWS)
 
-18. [Honeywell International Inc]()
+18. [Honeywell International Inc](https://www.dropbox.com/t/QqxtIKhAqg24Ez5j)
 
 19. [HP Inc]()
 
-20. [International Business Machines Corporation]()
+20. [International Business Machines Corporation](https://www.dropbox.com/t/0nHoTSaCvFivo2lt)
 
-21. [Intel Corporation]()
+21. [Intel Corporation](https://www.dropbox.com/t/VLlTeoaNVYLX8lvY)
 
-22. [Johnson & Johnson]()
+22. [Johnson & Johnson](https://www.dropbox.com/t/hhnrRzCBykgw8Rhk)
 
-23. [J P Morgan Chase & Co]()
+23. [J P Morgan Chase & Co](https://www.dropbox.com/t/Z04FNjrhBmOUPiLW)
 
-24. [Coca-Cola Company]()
+24. [Coca-Cola Company](https://www.dropbox.com/t/gOvPJo4tbHzVK03A)
 
-25. [McDonald's Corporation]()
+25. [McDonald's Corporation](https://www.dropbox.com/t/Y5tPgd0bXpEdekx3)
 
-26. [Mondelez International Inc]()
+26. [Mondelez International Inc](https://www.dropbox.com/t/AdckRvqtGf3wiQ11)
 
-27. [3M Company]()
+27. [3M Company](https://www.dropbox.com/t/P0BlkkXt8RUWm0iH)
 
-28. [Altria Group]()
+28. [Altria Group](https://www.dropbox.com/t/VUf5P9D5gBxuGFlr)
 
-29. [Merck & Company Inc]()
+29. [Merck & Company Inc](https://www.dropbox.com/t/QKQFw0mHUGM3kZWg)
 
-30. [Microsoft Corporation]()
+30. [Microsoft Corporation](https://www.dropbox.com/t/ptITuQZ0AdAb3rV4)
 
-31. [Nike Inc]()
+31. [Nike Inc](https://www.dropbox.com/t/TQm1OQJ3PsO4km0x)
 
-32. [Pfizer Inc]()
+32. [Pfizer Inc](https://www.dropbox.com/t/jAw7AeCd0o1ZdWQr)
 
-33. [Procter & Gamble Company]()
+33. [Procter & Gamble Company](https://www.dropbox.com/t/DdltYle9QZ35J6ce)
 
 34. [Pimco Global Stocksplus & Income Fund]()
 
