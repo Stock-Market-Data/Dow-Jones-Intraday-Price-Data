@@ -18,7 +18,7 @@
 
 * [Chevron Corporation](https://www.dropbox.com/t/DyY2qxbWSklmeEmn)
 
-* [DuPont de Nemours Inc](https://www.dropbox.com/t/Cx88K3h6Q50lii0s)
+* [DuPont](https://www.dropbox.com/t/Cx88K3h6Q50lii0s)
 
 * [Walt Disney Company](https://www.dropbox.com/t/EP0VtMZO3Cj2t85i)
 
